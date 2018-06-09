@@ -40,6 +40,9 @@ li{
     font-size: 15px;
   }
   h1{
+    font-size: 28px;
+  }
+  h2{
     font-size: 24px;
   }
   p{
@@ -55,6 +58,9 @@ li{
   }
   h1{
     font-size: 4vw;
+  }
+  h2{
+    font-size: 3.5vw;
   }
   p{
     font-size: 3vw;
